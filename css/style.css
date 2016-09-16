@@ -644,12 +644,18 @@ div.thumbnail h2{
     list-style:none;
     margin:20px 50px;
 }
-.price-column .list li{
+.price-column .list li {
     font-weight:lighter;
     color:#747C89;
     font-size:20px;
     border-bottom:1px solid #747C89;
     padding:25px 0px;
+}
+.price-column .list li a{
+    font-weight:lighter;
+    color:#747C89;
+    font-size:20px;
+    text-decoration: underline;
 }
 .price-column .list li.price {
     text-align: center;
@@ -662,7 +668,10 @@ div.thumbnail h2{
     text-decoration: line-through;
     font-size: 20px;
 }
-
+.price-column .list li.price i{
+    font-size: 12px;
+    line-height: 5px;
+}
 .price-text{
     margin:30px 0 20px;
     font-size:20px;
