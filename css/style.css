@@ -672,6 +672,11 @@ div.thumbnail h2{
     font-size: 12px;
     line-height: 5px;
 }
+.price-column .list li.price1 i{
+    font-size: 12px;
+    line-height: 5px;
+}
+
 .price-text{
     margin:30px 0 20px;
     font-size:20px;
