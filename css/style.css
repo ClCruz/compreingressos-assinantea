@@ -649,7 +649,7 @@ div.thumbnail h2{
     color:#747C89;
     font-size:20px;
     border-bottom:1px solid #747C89;
-    padding:25px 0px;
+    padding:22px 0px;
 }
 .price-column .list li a{
     font-weight:lighter;
@@ -673,6 +673,14 @@ div.thumbnail h2{
     line-height: 5px;
 }
 .price-column .list li.price1 i{
+    font-size: 12px;
+    line-height: 5px;
+}
+.price-column .list li.price2 i {
+    font-size: 12px;
+    line-height: 5px;
+}
+.price-column .list li.price2 a {
     font-size: 12px;
     line-height: 5px;
 }
