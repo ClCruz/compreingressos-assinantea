@@ -9,7 +9,7 @@
  jQuery(document).ready(function ($) {
 
     $("#portfolio-grid li").click(function(){
-        location.href = "http://186.237.201.150:8081/compreingressos2/comprar/assinatura.php?id=1";
+        location.href = "http://homolog.compreingressos.com:8081/comprar/assinatura.php?id=1";
     });
     $("#about .span4").click(function(){
         location.href = "http://staging.compreingressos.com/assinante-a-programacao";

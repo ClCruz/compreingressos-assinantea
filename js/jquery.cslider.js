@@ -14,7 +14,7 @@
         height:500, //max slider height
         current: 0, // index of current slide
         bgincrement: 100, // increment the bg position (parallax effect) when sliding
-        autoplay: false, // slideshow on / off
+        autoplay: true, // slideshow on / off
         interval: 6000 // time between transitions
     };
 
