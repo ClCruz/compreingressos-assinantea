@@ -9,10 +9,10 @@
  jQuery(document).ready(function ($) {
 
     $("#portfolio-grid li").click(function(){
-        location.href = "http://homolog.compreingressos.com:8081/comprar/assinatura.php?id=1";
+        location.href = "https://compra.compreingressos.com/comprar/assinatura.php?id=1";
     });
     $("#about .span4").click(function(){
-        location.href = "http://staging.compreingressos.com/assinante-a-programacao";
+        location.href = "http://compreingressos.com/assinante-a-programacao";
     });
     var lastId,
     topMenu = $("#top-navigation"),
