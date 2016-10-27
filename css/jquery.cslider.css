@@ -108,6 +108,11 @@
     font-weight: normal;
 }
 
+.da-slide i{
+    font-size: 12px;
+    line-height: 5px;
+}
+
 .da-slide h4 em{
     text-decoration: line-through;
 }
